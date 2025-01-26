@@ -3,6 +3,7 @@ import adobeaudition from '../app/assets/svg/skills/adobeaudition.svg';
 import afterEffects from '../app/assets/svg/skills/after-effects.svg';
 import angular from '../app/assets/svg/skills/angular.svg';
 import aws from '../app/assets/svg/skills/aws.svg';
+import springBoot from "../app/assets/svg/skills/springboot.svg";
 import azure from '../app/assets/svg/skills/azure.svg';
 import blender from '../app/assets/svg/skills/blender.svg';
 import bootstrap from '../app/assets/svg/skills/bootstrap.svg';
@@ -84,6 +85,7 @@ import fastapi from '../app/assets/svg/skills/fastapi.svg'
 
 
 
+
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
@@ -99,6 +101,8 @@ export const skillsImage = (skill) => {
       return illustrator;
     case 'adobe xd':
       return adobeXd;
+    case 'spring boot':
+      return springBoot;
     case 'after effects':
       return afterEffects;
     case 'css':
