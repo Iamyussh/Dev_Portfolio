@@ -7,6 +7,7 @@ export const personalData = {
   phone: '+918279780917',
   address: 'Blooms Coliving pg,EPIP Zone,Whitefield,Bangalore, Karnataka, India - 560066',
   github: 'https://github.com/Iamyussh',
+  facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/ayush-samanta-607649218/',
   twitter: 'https://x.com/Yoush_20',
   stackOverflow: 'https://stackoverflow.com/users/28560877/ayush-samanta',
