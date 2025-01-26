@@ -149,22 +149,21 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
+  name: "Ayush Samanta",
+  profile: '/ayush.png',
+  designation: "Software Developer",
+  description: "My name is Ayush Samanta...",
+  email: 'ayushsamanta1475@gmail.com',
+  phone: '+918279780917',
+  address: 'Blooms Coliving pg,EPIP Zone,Whitefield,Bangalore, Karnataka, India - 560066',
+  github: 'https://github.com/Iamyussh',
+  linkedIn: 'https://www.linkedin.com/in/ayush-samanta-607649218/',
+  twitter: 'https://x.com/Yoush_20',
+  stackOverflow: 'https://stackoverflow.com/users/28560877/ayush-samanta',
+  leetcode: "https://leetcode.com/u/Yoush/",
   devUsername: "said7388",
-  resume: "...",
-};
+  resume: "https://drive.google.com/file/d/1ks5Bmf0FZxsiVmH_7400gValBeZwJeiq/view?usp=drive_link"
+}
 ```
 
 `devUsername` is used for fetching blog posts from `dev.to`.
